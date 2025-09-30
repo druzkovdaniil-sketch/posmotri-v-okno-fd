@@ -333,3 +333,15 @@ ol {
 .preloader-template {
   position: absolute;
 }
+
+.content__list-item:hover {
+  text-decoration: underline;
+}
+
+.content__list-item:active {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.search-form__label:hover {
+  text-decoration: underline;
+}
